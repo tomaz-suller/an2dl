@@ -1,4 +1,5 @@
 # No data in Git!
+data
 *.npz
 *.csv
 
