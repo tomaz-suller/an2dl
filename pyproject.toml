@@ -18,4 +18,7 @@ dependencies = [
     "pillow>=11.0.0",
     "scipy>=1.14.1",
     "scikit-image>=0.24.0",
+    "optuna>=4.1.0",
+    "keras-tuner>=1.4.7",
+    "ipywidgets>=8.1.5",
 ]
